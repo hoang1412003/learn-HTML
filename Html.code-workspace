@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"QuanLi",
+			"DoAn"
+		],
+		"files.associations": {
+			"cmath": "cpp"
+		},
+		"editor.formatOnSave": true
+	}
+}
